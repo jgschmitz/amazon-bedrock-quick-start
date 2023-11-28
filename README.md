@@ -1,4 +1,4 @@
-### Generative AI applications with Amazon Bedrock and MongoDB Atlas
+## Generative AI applications with Amazon Bedrock and MongoDB Atlas
 
 This repository contains code samples for building diverse AI applications using Amazon Bedrock's foundation models. Learn how to accelerate projects in image and text generation and beyond.
 
