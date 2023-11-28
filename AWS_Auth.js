@@ -1,3 +1,4 @@
+# If using standard AWS Architecture you will authenticate from Lamda like so
 const { MongoClient } = require('mongodb');
 // Get the URI for the cluster then set AWS_ACCESS_KEY_ID as the username in the
 // URI and AWS_SECRET_ACCESS_KEY as the password, then set the appropriate auth
