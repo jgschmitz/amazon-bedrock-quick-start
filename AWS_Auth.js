@@ -19,4 +19,4 @@ module.exports.handler = async function () {
     databases: databases
   };
 };
-print 1,2
+pri
